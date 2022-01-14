@@ -1,0 +1,70 @@
+@charset "UTF-8"
+
+body{
+    background-color: #AEF2CC;
+}
+header{
+    background-image: linear-gradient(to top, #016825, #5BD987 );
+    margin: -8px;
+    height: 150px;
+
+}
+header > h1{
+    margin: 10px 0px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding: 15px;
+}
+header > p{
+    text-align: center;
+    color: white;
+    margin: 0px 42px;
+    font-size: 14px;
+    padding: 0px 0px 21px  0px;
+}
+header > nav > p > a{
+    color: white ;
+    text-decoration: none;
+    margin: 5px;
+   
+
+}
+
+main {
+    background-color: white;
+    margin: 0px 48px;
+    
+}
+main > h2{
+    color: 016825;
+}
+main > h3  {
+    background-image: linear-gradient(to right,#AEF2CC,#D0F2E2 );
+}
+main > p{ 
+    text-align: justify;
+}
+section {
+    background-color:#AEF2CC ;
+    border-radius: 10px;  
+}
+
+section > p{
+    padding: 10px;
+}
+section > h4{
+    padding: 10px;
+    background-color: #41D976;
+    border-radius: 10px 10px 0px 0px;
+}
+
+footer > p {
+    background-color: #016825;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    padding: 5px;
+
+}
+
